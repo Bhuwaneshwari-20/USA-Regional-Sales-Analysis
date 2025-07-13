@@ -23,18 +23,18 @@
 
 ## Process
 
-#### Data Profiling & Cleaning: Verified data schema, handled missing budgets, and corrected data types.
-#### Univariate & Bivariate Analysis: Explored distributions of revenue, margin, and unit price, along with breakdowns by product, channel, region, and customer segments.
-#### Trend & Seasonality: Analyzed monthly and yearly sales patterns to identify recurring surges and dips.
-#### Outlier Detection: Identified extreme transactions in revenue and unit price.
-#### Correlation & Segmentation: Assessed relationships between metrics and clustered customers by revenue vs. profit margin.
-#### Dashboard Creation: Developed a Power BI dashboard to visualize cleaned data, highlighting trends, regional performance, and key metrics.
+#### 1. Data Profiling & Cleaning: Verified data schema, handled missing budgets, and corrected data types.
+#### 2. Univariate & Bivariate Analysis: Explored distributions of revenue, margin, and unit price, along with breakdowns by product, channel, region, and customer segments.
+#### 3. Trend & Seasonality: Analyzed monthly and yearly sales patterns to identify recurring surges and dips.
+#### 4. Outlier Detection: Identified extreme transactions in revenue and unit price.
+#### 5. Correlation & Segmentation: Assessed relationships between metrics and clustered customers by revenue vs. profit margin.
+#### 6. Dashboard Creation: Developed a Power BI dashboard to visualize cleaned data, highlighting trends, regional performance, and key metrics.
 
 ## Key Insights
 
-#### Monthly Revenue Cycle: Revenue stable at ≈$23M–$26.5M (2014–2017), with a sharp drop to ≈$21.2M in early 2017.
-#### Channel Mix: Wholesale (54%), Distributors (31%), Exports (15%)—opportunity to grow exports.
-#### Top Products: Product 26 ($118M), Product 25 ($110M), Product 13 ($68–75M).
-#### Profit Margins: Range from ≈18% to ≈60%, with no strong correlation to unit price.
-#### Seasonal Volume: Slight uptick in May–June; investigate early 2017 dip.
-#### Regional Performance: California leads with ≈$230M revenue and 7500+ orders.
+#### -Monthly Revenue Cycle: Revenue stable at ≈$23M–$26.5M (2014–2017), with a sharp drop to ≈$21.2M in early 2017.
+#### -Channel Mix: Wholesale (54%), Distributors (31%), Exports (15%)—opportunity to grow exports.
+#### -Top Products: Product 26 ($118M), Product 25 ($110M), Product 13 ($68–75M).
+#### -Profit Margins: Range from ≈18% to ≈60%, with no strong correlation to unit price.
+#### -Seasonal Volume: Slight uptick in May–June; investigate early 2017 dip.
+#### -Regional Performance: California leads with ≈$230M revenue and 7500+ orders.
