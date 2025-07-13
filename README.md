@@ -2,8 +2,7 @@
 
 ## Project Overview
 
-- This project involves an Exploratory Data Analysis (EDA) of Acme Co.’s USA sales data from 2014 to 2018, followed by the creation of a Power BI dashboard for data visualization.
-- The analysis uncovers actionable insights to drive business decisions.
+This project involves an Exploratory Data Analysis (EDA) of Acme Co.’s USA sales data from 2014 to 2018, followed by the creation of a Power BI dashboard for data visualization. The analysis uncovers actionable insights to drive business decisions.
 
 ## Problem Statement
 
@@ -25,15 +24,15 @@
 ## Process
 
 1. **Data Profiling & Cleaning**: 
-   - Verified data schema, handled missing budgets, and corrected data types.
+   Verified data schema, handled missing budgets, and corrected data types.
 2. **Univariate & Bivariate Analysis**: 
-   - Explored distributions of revenue, margin, and unit price, along with breakdowns by product, channel, region, and customer segments.
+   Explored distributions of revenue, margin, and unit price, along with breakdowns by product, channel, region, and customer segments.
 3. **Trend & Seasonality**: 
    - Analyzed monthly and yearly sales patterns to identify recurring surges and dips.
 4. **Outlier Detection**: 
    - Identified extreme transactions in revenue and unit price.
 5. **Correlation & Segmentation**: 
-   - Assessed relationships between metrics and clustered customers by revenue vs. profit margin.
+   Assessed relationships between metrics and clustered customers by revenue vs. profit margin.
 6. **Dashboard Creation**: 
    - Developed a Power BI dashboard to visualize cleaned data, highlighting trends, regional performance, and key metrics.
 
